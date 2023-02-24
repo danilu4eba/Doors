@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv_enter">Вход</string>
+    <string name="tv_Welcome">Добро пожаловать!</string>
+    <string name="tv_1">Выполните вход или зарегиструйтесь</string>
+    <string name="et_1">Введите вашу почту</string>
+    <string name="prompt_password">Введите пароль</string>
+    <string name="prompt_email">Введите вашу почту</string>
+    <string name="action_sign_in_short">sign in</string>
+    <string name="action_sign_in">Войти</string>
+</resources>
